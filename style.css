@@ -1,0 +1,158 @@
+body{
+    text-align:center;
+}
+#image
+{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    margin-top: 50px;
+}
+#welcome
+{
+    color:purple;
+    background:linear-gradient(#02edd6 0%,#0277ed 100%);
+    height:600px;
+    opacity:1;
+}
+
+#name
+{
+   font-family:cursive; 
+    color:lightcyan;
+    font-size: 40px;
+    
+}
+
+#home{
+     background:linear-gradient(#f7f307 0%,#f7af07 100%);
+    padding:50px;
+
+}
+
+p{
+   font-family: sans-serif;
+   font-size: 20px;
+}
+.menu
+{
+    list-style: none;
+    position:fixed;
+    margin-top: 0px;
+    top: 0px;
+    z-index:10;
+    background-color:darkgrey;
+    width: 100%;
+    
+   
+}
+#head1,#head2,#head3,#head4,#head5,#head6
+{
+    text-decoration:underline;
+    font-family: 'Chilanka',cursive;
+    color:purple;
+}
+
+.links
+{
+  display:inline;
+    padding:15px;
+    font-size: 25px;
+    font-weight: bold;
+    
+    
+}
+#icon{
+    height:200px;
+    width:300px;
+}
+.links:hover{
+    color: deepskyblue;
+    font-size: 20px;
+}
+#home1{
+    width:100%;
+    height:550px;
+    background:linear-gradient(#e6f587,#9ef274);
+    padding:50px;
+}
+#apps
+{
+    width:100%;
+    height:800px;
+    background:linear-gradient(#9ef274, #87b3f5);
+    padding:50px;
+}
+#games
+{
+    width:100%;
+    height:500px;
+    background:linear-gradient(#87b3f5,#bf8df2);
+    padding:50px;
+}
+#chatbot
+{
+    width:100%;
+    height:600px;
+    background:linear-gradient(#bf8df2,#adedde);
+    padding:50px;
+}
+#location
+{
+    width:100%;
+    height:700px;
+    background:linear-gradient(#adedde,#edadcd);
+    padding:50px;
+}
+#contact
+{
+    width:100%;
+    height:300px;
+    background:linear-gradient(#edadcd, #a5f0bf);
+    padding:50px;
+}
+
+#image:hover{
+    transform:scale(0.8);
+}
+#i1:hover{
+    transform:scale(0.8);
+}
+#i2:hover{
+    transform:scale(0.6);
+}
+#i3:hover{
+    transform:scale(1.2);
+}
+#i4:hover{
+    transform:scale(0.4);
+}
+#i5:hover{
+    transform:scale(1.4);
+}
+#head1:hover{
+    color:lightseagreen;
+}
+#head2:hover{
+    color:darkolivegreen;
+}
+#head3:hover{
+    color:palevioletred;
+}
+#head4:hover{
+    color:darkred;
+}
+#head5:hover{
+    color:cadetblue;
+}
+#head6:hover{
+    color:crimson;
+}
+#p:hover{
+    color:goldenrod;
+}
+#head:hover{
+    color:darkblue;
+}
+
+
